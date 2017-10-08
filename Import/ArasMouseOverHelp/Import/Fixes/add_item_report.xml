@@ -1,0 +1,7 @@
+<AML>
+  <Item type="Item Report" action="add" id="12A66E2898844661A58EA978FC0B71C5">
+    <related_id keyed_name="ItemType Glossary Report" type="Report">BF0A629AADF5459A8FD801E9E41DC514</related_id>
+    <sort_order>512</sort_order>
+    <source_id keyed_name="ItemType" type="ItemType" name="ItemType">450906E86E304F55A34B3C0D65C097EA</source_id>
+  </Item>
+</AML>
